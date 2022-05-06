@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jesus Reyes</h1>
-<h3 align="center">'m Developer Semi-Senior Developer, I focus more on the development of mobile applications and Web Design</h3>
+<h3 align="center">I'm Developer Semi-Senior Developer, I focus more on the development of mobile applications and Web Design</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jesus180reyes" alt="jesus180reyes" /></a> </p>
 
