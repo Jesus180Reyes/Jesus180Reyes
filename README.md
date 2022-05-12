@@ -16,9 +16,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jesus180reyes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jesus180reyes" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/luis-de-jesus-reyes-nolasco-78a374216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luis-de-jesus-reyes-nolasco-78a374216/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/luis-de-jesus-reyes-nolasco-78a374216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luis-de-jesus-reyes-nolasco-78a374216/" height="30" width="40" /></a>
 <a href="https://instagram.com/jartshn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jartshn" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/jesus180reyes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/jesus180reyes" height="30" width="40" /></a>
+<a href="https://dribbble.com/Jesus180Reyes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/Jesus180Reyes" height="30" width="40" /></a>
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
